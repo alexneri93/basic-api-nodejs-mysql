@@ -14,7 +14,7 @@ npm i -D express mysql nodemon
 
 npm i cors bodyparser
 
-npm i -G nodemon
+npm i -g nodemon
 
 
 In the terminal, execute:
